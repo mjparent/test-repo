@@ -1,3 +1,0 @@
-# goats
-
-# salami
